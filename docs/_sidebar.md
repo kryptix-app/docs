@@ -1,12 +1,15 @@
-- Getting Started
-  - [Landing](Landingpage.md "The greatest guide in the world")
 
-- How to get started 
-  - [Choose a crypto exhange](providers.md)
-  - [Connect your crypto-Exchange](providers.md)
-  - [Create a Strategy](providers.md)
-  - [Run a Backtest](providers.md)
-  - [Activate your Strategy](providers.md)
-  - [Monitor your Crypto gains ](providers.md)
+ - [Quickstart](quickstart.md)
+ - [Crypto-Exchange](exchange.md)
+   - [Binance](binance.md)
+   - [Kraken](kraken.md)
+- [Strategies](strategy.md)
+  - [Create your own strategy](createstrategy.md)
+  - [Run a Backtest](backtest.md)
+  - [Activate your strategy](activatestrategy.md)
+- [Track your Crypto peformance ](performance.md)
+    - [Mointor your peformance](provides.md) 
+    - [Import your already existing portfolio](provides.md) 
 
-- FAQ
+- [Security](Security.md)
+- [FAQ](FAQ.md)

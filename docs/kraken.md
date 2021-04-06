@@ -58,7 +58,7 @@ Find out more information about the API Key on the offical [Kraken Website](http
 <details>
       <summary>Navigate to the API Settings</summary>
 
-![](2021-04-05-17-57-35.png)
+![](2021-04-05-17-58-02.png)
 
 </details>
 
