@@ -1,8 +1,8 @@
 
  - [Quickstart](quickstart.md)
  - [Crypto-Exchange](exchange.md)
-   - [Binance](binance.md)
-   - [Kraken](kraken.md)
+   <!-- - [Binance](binance.md)
+   - [Kraken](kraken.md) -->
 - [Strategies](strategy.md)
   - [Create your own strategy](createstrategy.md)
   - [Run a Backtest](backtest.md)
